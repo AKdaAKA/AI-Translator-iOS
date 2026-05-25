@@ -1,0 +1,30 @@
+# Xcode build artifacts
+build/
+DerivedData/
+
+# Personal settings
+xcuserdata/
+
+# Architecture-specific files
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods & Carthage
+Pods/
+Carthage/Build/
+
+# OS-generated files
+.DS_Store
+
+# API Keys and Secrets
+Keys.plist
+Secrets.plist
+Config.plist
+APIKey.swift
+APIKeys.swift
+.env
