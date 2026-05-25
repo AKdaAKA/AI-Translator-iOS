@@ -8,6 +8,7 @@ A simple, minimalist iOS translation application built using UIKit and Swift tha
 2. Create a `Keys.plist` file inside the project directory (it is ignored by Git to protect secrets).
 3. Add your Gemini API key inside `Keys.plist`:
    ```xml
+   <!-- Keys.plist -->
    <?xml version="1.0" encoding="UTF-8"?>
    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
    <plist version="1.0">
